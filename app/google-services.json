@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214293049056",
+    "project_id": "patient-info-monitoring",
+    "storage_bucket": "patient-info-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214293049056:android:383eeda56f9c1ed9372a85",
+        "android_client_info": {
+          "package_name": "com.example.patient_info_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214293049056-h5m7k9icp19p34vo1f4a88ran55c0fi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUo4Zvxx91McvG1gocrZsR7q6zwG5ZxtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214293049056-h5m7k9icp19p34vo1f4a88ran55c0fi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

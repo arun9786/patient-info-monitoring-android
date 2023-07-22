@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@drawable/ic_baseline_local_hospital_24"
+        android:id="@+id/main_local_hospital"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:id="@+id/main_personal_info"
+        app:showAsAction="ifRoom"/>
+
+    <item
+    android:title="Logout"
+    android:id="@+id/main_logout_option"
+    app:showAsAction="never"/>
+
+</menu>
